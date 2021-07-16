@@ -15,7 +15,7 @@ const Footer = () => {
    <img class="gh-logo" src="https://cdn.onlinewebfonts.com/svg/img_44605.png"></img>
    </a>
    <a href="https://www.linkedin.com/in/katherine-v-gomez-34343393/">
-   <img class="gh-logo" src="http://www.newdesignfile.com/postpic/2009/07/linkedin-logo-black_134815.png"></img>
+   <img class="gh-logo" src="https://maxcdn.icons8.com/windows8/PNG/512/Social_Networks/linkedin-512.png"></img>
    </a>
 </div>
   )}
