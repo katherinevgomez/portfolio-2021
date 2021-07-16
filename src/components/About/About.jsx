@@ -39,14 +39,14 @@ const About = () => {
               <div className="about-wrapper__info">
                 <p className="about-wrapper__info-text">
                   {paragraphOne ||
-                    'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi neque, ipsa animi maiores repellendu distinctioaperiam earum dolor voluptatum consequatur blanditiis inventore debitis fuga numquam voluptate architecto itaque molestiae.'}
+                    "I'm a UX Designer that codes. With a passion for user interactivity I love to design and build experiences that are fun and memorable for the end user."}
                 </p>
                 <p className="about-wrapper__info-text">
                   {paragraphTwo ||
-                    'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi neque, ipsa animi maiores repellendu distinctioaperiam earum dolor voluptatum consequatur blanditiis inventore debitis fuga numquam voluptate architecto itaque molestiae.'}
+                    "I was born and raised in Venezuela, lived 8 years in Miami and I now call Austin my home. Getting to know people that come from different backgrounds and being able to relate is something special that helps me design with empathy and diversity at the forefront."}
                 </p>
                 <p className="about-wrapper__info-text">
-                  {paragraphThree || 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.'}
+                  {paragraphThree || "When I'm not behind a screen I enjoy dancing with friends, doing culinary tours around the city, playing virtual reality games and paddling through Lady Bird Lake."}
                 </p>
                 {resume && (
                   <span className="d-flex mt-3">
