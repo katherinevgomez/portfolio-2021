@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import Hero from './Hero/Hero';
 import About from './About/About';
+import Skills from './Skills/Skills';
 import Projects from './Projects/Projects';
 import Contact from './Contact/Contact';
 import Footer from './Footer/Footer';
@@ -12,6 +13,7 @@ import { heroData, aboutData, projectsData, contactData, footerData } from '../m
 function App() {
   const [hero, setHero] = useState({});
   const [about, setAbout] = useState({});
+  const [skills, setSkills] = useState({});
   const [projects, setProjects] = useState([]);
   const [contact, setContact] = useState({});
   const [footer, setFooter] = useState({});
@@ -25,9 +27,10 @@ function App() {
   }, []);
 
   return (
-    <PortfolioProvider value={{ hero, about, projects, contact, footer }}>
+    <PortfolioProvider value={{ hero, about, skills, projects, contact, footer }}>
       <Hero />
       <About />
+      <Skills />
       <Projects />
       <Contact />
       <Footer />
