@@ -28,12 +28,12 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'HairStationLandingPage.png',
-    title: 'Hair Station E-Commerce Site',
-    info: 'Hair Station is an E-Commerce site for hair products. It was created using ReactJS, Commerce.js, Stripe, CSS and Material-UI.',
+    img: 'MoorecoOutletThumbnail.jpeg',
+    title: 'Furniture E-Commerce App',
+    info: 'MooreCo Outlet is an E-Commerce App for furniture specializing in the WFH market.',
     info2: '',
-    url: 'https://60f08c023b8d9900072908f7--thirsty-sinoussi-6314e1.netlify.app/',
-    repo: 'https://github.com/katherinevgomez/HairStation', // if no repo, the button will not show up
+    url: '/ecommerce',
+    repo: 'https://www.figma.com/proto/jA6OZoisU9XkuvY8cxSJT4/MooreCo-Outlet-E-Commerce-Store?page-id=56%3A1569&node-id=56%3A1634&viewport=469%2C407%2C0.07514500617980957&scaling=scale-down&starting-point-node-id=56%3A1634', // if no repo, the button will not show up
   },
   // {
   //   id: nanoid(),

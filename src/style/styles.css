@@ -1,0 +1,57 @@
+.ecommerceHeading {
+    background: #f9d043;
+    
+}
+
+.heading{
+    width: 70vw !important;
+    
+}
+
+.heading2{
+    width:60vw !important;
+}
+
+.ecommerceText {
+    text-align: center;
+    padding: 20px;
+}
+
+.ecommerceLeftText {
+    text-align: left;
+    padding: 20px;
+}
+
+.ecommerceLeftTextTitle {
+    text-align: left;
+    padding:  0  0  0 60px;
+}
+
+.sketches {
+    width: 70vw;
+}
+
+.prototypes {
+    width: 40vw;
+}
+
+.h1ecommerce {
+    background: #f9d043;
+    height: 60px;
+    padding-top: 15px;
+}
+
+.linkstyle {
+    color: #272341;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.linkstyle :hover {
+    color: #333333;
+}
+
+.footerProjects {
+    background: black;
+    height: 150px;
+    padding-top: 50px;
+}
