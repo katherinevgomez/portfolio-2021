@@ -22,7 +22,14 @@ const Header = () => {
   }, []);
 
   return (
-
+    <>
+     <div class="navbar">
+      <a class="linkstyle" href="/"><h2><b>Katherine Gomez</b></h2><h3>UX Designer</h3></a>
+      <a class="linkstyle" href="/"><h4>Home</h4></a>
+      <a href="https://www.docdroid.net/ZXqOjAs/uxdesignerkatherinegomez-pdf"><h4>Resume</h4></a>
+      <a href = "mailto:katherinegomez.mfs@gmail.com"><h4>Contact</h4></a>
+    </div>
+    
     <section id="hero" className="jumbotron">
       <Container>
         <Fade left={isDesktop} bottom={isMobile} duration={1000} delay={500} distance="30px">
@@ -44,6 +51,7 @@ const Header = () => {
         </Fade>
       </Container>
     </section>
+    </>
   );
 };
 
