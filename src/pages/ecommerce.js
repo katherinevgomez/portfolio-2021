@@ -17,9 +17,9 @@ export default () => {
 
 
     <div class="ecommerceHeading">
-     <img class="heading" src="https://s6.gifyu.com/images/Mooreco-Outlet-Thumbnail.gif" alt="Furniture E-commerce App Showcase"/> 
+     <img class="heading" src="https://s6.gifyu.com/images/MoorecoOutletThumbnail.jpg" alt="Furniture E-commerce App Showcase"/> 
      </div>
-    <br/> <br/> <br/> <br/>
+    <br/> <br/> <br/>
      <Title title="Furniture E-Commerce App" />
     <h1 class="h1ecommerce">Business Background</h1>
     <br/>
@@ -104,7 +104,7 @@ export default () => {
       <img class="sketches" src="https://s6.gifyu.com/images/HighFidelity4.png" alt="high fidelity wireframes set 4"/>
       <br/><br/>
       <h1 class="h1ecommerce">High Fidelity Prototype</h1>
-      <br/><br/><br/>
+      <br/>
       <img class="prototypes" src="https://s6.gifyu.com/images/Prototype1.gif" alt="high fidelity prototype part 1"/>
       <br/><br/>
       <p class="ecommerceText">By visually displaying the categories in the home page I gave users a quick way to move around the site and go directly where they need to go.

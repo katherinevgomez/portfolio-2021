@@ -32,13 +32,15 @@
 }
 
 .prototypes {
-    width: 40vw;
+    width: 25vw;
 }
 
 .h1ecommerce {
     background: #f9d043;
     height: 60px;
     padding-top: 15px;
+    margin-left: 300px;
+    margin-right: 300px;
 }
 
 .linkstyle {
