@@ -65,7 +65,7 @@ const Projects = () => {
                           className="cta-btn text-color-main"
                           href={repo}
                         >
-                          Clickable Prototype
+                          Prototype
                         </a>
                       )}
                     </div>

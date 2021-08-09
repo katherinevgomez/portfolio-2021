@@ -26,6 +26,17 @@ export const aboutData = {
 
 // PROJECTS DATA
 export const projectsData = [
+
+  {
+    id: nanoid(),
+    img: 'Going-Once-Cover.png',
+    title: 'Sustainability App',
+    info: 'Going Once is an app that puts recycling, stooping and community into its users fingertips.',
+    info2: '',
+    url: '/goingonce',
+    repo: 'https://www.figma.com/proto/C138pCE67HwXMe59iTKmMU/Going-Once?node-id=83%3A2744&scaling=scale-down&page-id=51%3A148&starting-point-node-id=83%3A1944&show-proto-sidebar=1', // if no repo, the button will not show up
+  },
+
   {
     id: nanoid(),
     img: 'MoorecoOutletThumbnail.jpeg',
@@ -35,15 +46,7 @@ export const projectsData = [
     url: '/ecommerce',
     repo: 'https://www.figma.com/proto/jA6OZoisU9XkuvY8cxSJT4/MooreCo-Outlet-E-Commerce-Store?page-id=56%3A1569&node-id=56%3A1634&viewport=469%2C407%2C0.07514500617980957&scaling=scale-down&starting-point-node-id=56%3A1634', // if no repo, the button will not show up
   },
-  // {
-  //   id: nanoid(),
-  //   img: 'project.jpg',
-  //   title: '',
-  //   info: '',
-  //   info2: '',
-  //   url: '',
-  //   repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
-  // },
+  
   // {
   //   id: nanoid(),
   //   img: 'project.jpg',

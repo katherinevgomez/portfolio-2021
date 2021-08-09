@@ -3,6 +3,10 @@
     
 }
 
+.goingonceHeading {
+    background: #EAFBBE;
+}
+
 .heading{
     width: 70vw !important;
     
@@ -10,6 +14,10 @@
 
 .heading2{
     width:60vw !important;
+}
+.heading3 {
+    width:80wv !important;
+    align-items: center;
 }
 
 .ecommerceText {
@@ -37,6 +45,13 @@
 
 .h1ecommerce {
     background: #f9d043;
+    height: 60px;
+    padding-top: 15px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.h1goingonce {
+    background: #EAFBBE;
     height: 60px;
     padding-top: 15px;
     margin-left: 300px;
