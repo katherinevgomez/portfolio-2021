@@ -36,7 +36,7 @@
 }
 
 .sketches {
-    width: 70vw;
+    width: 60vw;
 }
 
 .prototypes {
@@ -49,6 +49,7 @@
     padding-top: 15px;
     margin-left: 300px;
     margin-right: 300px;
+    border-radius: 3px;
 }
 .h1goingonce {
     background: #EAFBBE;
@@ -56,19 +57,32 @@
     padding-top: 15px;
     margin-left: 300px;
     margin-right: 300px;
+    border-radius: 3px;
 }
 
 .linkstyle {
     color: #272341;
     font-family: 'Montserrat', sans-serif;
+    text-align: left;
 }
 
 .linkstyle :hover {
     color: #333333;
 }
 
+.navbarLinks {
+ margin: 25px; 
+ align-items: right;
+ 
+;
+}
+
 .footerProjects {
     background: black;
     height: 150px;
     padding-top: 50px;
+}
+
+.navbar {
+    margin: 25px;
 }

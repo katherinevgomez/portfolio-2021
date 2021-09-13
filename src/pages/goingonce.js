@@ -10,9 +10,11 @@ export default () => {
     <>
     <div class="navbar">
       <a class="linkstyle" href="/"><h2><b>Katherine Gomez</b></h2><h3>UX Designer</h3></a>
+      <div class ="navbarLinks">  
       <a class="linkstyle" href="/"><h4>Home</h4></a>
-      <a href="https://www.docdroid.net/ZXqOjAs/uxdesignerkatherinegomez-pdf"><h4>Resume</h4></a>
-      <a href = "mailto:katherinegomez.mfs@gmail.com"><h4>Contact</h4></a>
+      <a class="linkstyle" href="https://docs.google.com/document/d/1PElEYx1_ZqdVoUcLF0AlUmqOlbWGWAxepUKjydl54eg/edit?usp=sharing"><h4>Resume</h4></a>
+      <a class="linkstyle" href = "mailto:katherinegomez.mfs@gmail.com"><h4>Contact</h4></a>
+      </div>
     </div>
 
 
@@ -30,9 +32,7 @@ export default () => {
     <br/>
     <h3><b>Responsibilities:</b> Competitive Analysis, Affinity Mapping, User Flows, Branding, Rapid Prototyping</h3>
     <br/>
-    <h3><b>Designers:</b> Katherine, Lena, Rachel</h3>
-    <br/>
-    <h3><b>Developers:</b> Matt, Sean, Antonio</h3>
+    <h3><b>Team:</b> 3 Designers and 3 Developers</h3>
     <br/>
     <h3><b>Time:</b> 2 Week Sprint</h3>
     <br/> 

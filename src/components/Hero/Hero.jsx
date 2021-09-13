@@ -25,9 +25,11 @@ const Header = () => {
     <>
      <div class="navbar">
       <a class="linkstyle" href="/"><h2><b>Katherine Gomez</b></h2><h3>UX Designer</h3></a>
+      <div class ="navbarLinks">  
       <a class="linkstyle" href="/"><h4>Home</h4></a>
-      <a href="https://www.docdroid.net/ZXqOjAs/uxdesignerkatherinegomez-pdf"><h4>Resume</h4></a>
-      <a href = "mailto:katherinegomez.mfs@gmail.com"><h4>Contact</h4></a>
+      <a class="linkstyle" href="https://docs.google.com/document/d/1PElEYx1_ZqdVoUcLF0AlUmqOlbWGWAxepUKjydl54eg/edit?usp=sharing"><h4>Resume</h4></a>
+      <a class="linkstyle" href = "mailto:katherinegomez.mfs@gmail.com"><h4>Contact</h4></a>
+      </div>
     </div>
     
     <section id="hero" className="jumbotron">
@@ -37,7 +39,8 @@ const Header = () => {
             {title || 'Howdy, my name is'}{' '}
             <span className="text-color-main">{name || 'Katherine Gomez'}</span>
             <br />
-            {subtitle || "I'm a UX Designer"}
+            
+            <h1>I'm a UX Designer that codes and I'm ready to build the next big thing</h1>
           </h1>
         </Fade>
         <Fade left={isDesktop} bottom={isMobile} duration={1000} delay={1000} distance="30px">
