@@ -19,13 +19,13 @@ export default () => {
 
 
     <div class="goingonceHeading">
-     <img class="heading" src="https://s6.gifyu.com/images/Going-Once-Cover.png" alt="Sustainability App Showcase"/> 
+     <img class="heading" src="https://s9.gifyu.com/images/Going-Once-Cover.jpg" alt="Sustainability App Showcase"/> 
      </div>
     <br/> <br/> <br/>
      <Title title="Sustainability App" />
     <h1 class="h1goingonce">Overview</h1>
-    <br/>
-    <p class="ecommmerceText"><b>75% of America's waste is recyclable and we only recycle around 30% of it.
+<img class="heading2" src="https://s9.gifyu.com/images/Untitled-design263629b87c1285bf.jpg" alt="Recycling Graph" />
+<p class="ecommmerceText"><b>75% of America's waste is recyclable and we only recycle around 30% of it.
 </b></p>
     <p class="ecommerceText">The environment is an exhaustible resource, therefore it is important to use its resources rationally and protect it for the good of the Earth, our environment, humanity and all living things. </p>
     <h3><b>Role:</b> UX Researcher, UI Designer</h3>
@@ -45,7 +45,7 @@ export default () => {
 <br/>By being a <b>Specialized Platform</b> with an active community engagement, to spread awareness and optimize the process of notifying, locating and distributing the artifacts.</p>
     <h1 class="h1goingonce">User Persona</h1>
     <br/>
-    <img class="heading2" src="https://s6.gifyu.com/images/Going-Once-User-Persona.jpg" alt="Elsi User Persona"/>
+    <img class="heading2" src="https://s9.gifyu.com/images/User-Persona.jpg" alt="Elsi User Persona"/>
     <br/> <br/> <br/>
     <h1 class="h1goingonce">User Goals</h1>
 

@@ -29,7 +29,7 @@ export const projectsData = [
 
   {
     id: nanoid(),
-    img: 'Going-Once-Cover.png',
+    img: 'Going-Once-Cover.jpeg',
     title: 'Sustainability App',
     info: 'Going Once is an app that puts recycling, stooping and community into its users fingertips.',
     info2: '',
@@ -39,7 +39,7 @@ export const projectsData = [
 
   {
     id: nanoid(),
-    img: 'MoorecoOutletThumbnail.jpeg',
+    img: 'MoorecoOutletThumbnail.png',
     title: 'Furniture E-Commerce App',
     info: 'MooreCo Outlet is an E-Commerce App for furniture specializing in the WFH market.',
     info2: '',

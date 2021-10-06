@@ -19,7 +19,7 @@ export default () => {
 
 
     <div class="ecommerceHeading">
-     <img class="heading" src="https://s6.gifyu.com/images/MoorecoOutletThumbnail.jpg" alt="Furniture E-commerce App Showcase"/> 
+     <img class="heading" src="https://s9.gifyu.com/images/Mooreco-Cover.png" alt="Furniture E-commerce App Showcase"/> 
      </div>
     <br/> <br/> <br/>
      <Title title="Furniture E-Commerce App" />
